@@ -1,0 +1,7 @@
+POST http://localhost:8000/api/v2/user/refreshAccessToken/ HTTP/1.1
+content-type: application/json
+#Authorization: Bearer eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJ0b2tlbl90eXBlIjoiYWNjZXNzIiwiZXhwIjoxNTU2MDg1MzI5LCJqdGkiOiI0ZmYxYmM1YzQ4Nzg0MWU0OTM0ODk3OGMwNTZmMmMwZSIsInVzZXJfaWQiOjF9.hFP7YbuE5NGqLSDzVvZI851diHR6FHgFB2dpHcsT7Qo
+с р
+{
+    "refresh": "eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJ0b2tlbl90eXBlIjoicmVmcmVzaCIsImV4cCI6MTU1NjA4NTc1OCwianRpIjoiMmVlNjgwYjRjNWI1NDBiZWIxMjZjN2VhYjBmNmQ2OTMiLCJ1c2VyX2lkIjoxfQ.ZgUtVBcz4uWivO0QXlRa6k5jB__MHNpgcaxB295ACRI"
+}

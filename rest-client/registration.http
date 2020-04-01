@@ -1,0 +1,13 @@
+POST http://localhost:8000/api/v1/user/register/ HTTP/1.1
+content-type: application/json
+# Authorization: Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9
+
+{
+    "email": "admin123@mail.ru",
+    "phone": "7021112938",
+    "firstName": "Асан",
+    "lastName": "Мынбаев",
+    "password": "123",
+    "password2": "123"
+}
+

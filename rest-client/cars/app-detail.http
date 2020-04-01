@@ -1,0 +1,11 @@
+GET http://localhost:8000/api/applications/?api_key=9e0231e0-e5e8-47be-8f16-adac3240e921 HTTP/1.1
+content-type: application/json
+Authorization: Bearer eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJ0b2tlbl90eXBlIjoiYWNjZXNzIiwiZXhwIjoxNTg1ODI0NDE4LCJqdGkiOiJjNmYxODU1ZWZmMDg0YTM1OTc5OWE4YjhhNmZjMDI0NSIsInVzZXJfaWQiOjF9.IO7vNO2VYsycRmaafSry0JZcueDw4-0vYV0AwFoMQac
+
+{
+}
+
+###
+
+
+
